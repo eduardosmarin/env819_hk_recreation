@@ -1,0 +1,21 @@
+---
+title: "ENV 819, Preliminary Demographic Analysis"
+author: "Eduardo Marin"
+date: "`r format(Sys.time())`"
+output:
+  pdf_document:
+    toc: true
+  html_document:
+    theme: flatly
+    code_folding: hide
+    fig_width: 8
+    fig_height: 7
+    fig_caption: true
+    toc: true
+    toc_float: true
+    self_contained: true
+editor_options:
+  chunk_output_type: console
+  markdown:
+    wrap: 72
+---
