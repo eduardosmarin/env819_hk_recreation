@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "AQMN_Stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2326" } },
+"features": [
+{ "type": "Feature", "properties": { "Station": "Southern", "Nearest": "Central", "Latitude": 22.24746092, "Longitude": 114.1601401 }, "geometry": { "type": "Point", "coordinates": [ 834543.0, 812078.0 ] } },
+{ "type": "Feature", "properties": { "Station": "North", "Nearest": "Tai Po", "Latitude": 22.49669723, "Longitude": 114.12824408 }, "geometry": { "type": "Point", "coordinates": [ 831264.0, 839678.0 ] } },
+{ "type": "Feature", "properties": { "Station": "Kwun Tong", "Nearest": "Tseung Kwan O", "Latitude": 22.3096251, "Longitude": 114.23117417 }, "geometry": { "type": "Point", "coordinates": [ 841862.866499999538064, 818962.610500000417233 ] } },
+{ "type": "Feature", "properties": { "Station": "Tseung Kwan O", "Nearest": "Kwun Tong", "Latitude": 22.31764241, "Longitude": 114.25956137 }, "geometry": { "type": "Point", "coordinates": [ 844787.299999999813735, 819851.699999999254942 ] } },
+{ "type": "Feature", "properties": { "Station": "Tuen Mun", "Nearest": "Yuen Long", "Latitude": 22.39114326, "Longitude": 113.97672832000001 }, "geometry": { "type": "Point", "coordinates": [ 815657.599999999627471, 828002.199999999254942 ] } },
+{ "type": "Feature", "properties": { "Station": "Tung Chung", "Nearest": "Tuen Mun", "Latitude": 22.28888887, "Longitude": 113.94365902 }, "geometry": { "type": "Point", "coordinates": [ 812234.700000000186265, 816683.900000000372529 ] } },
+{ "type": "Feature", "properties": { "Station": "Eastern", "Nearest": "Kwun Tong", "Latitude": 22.28288555, "Longitude": 114.21937156 }, "geometry": { "type": "Point", "coordinates": [ 840647.599999999627471, 816001.199999999254942 ] } },
+{ "type": "Feature", "properties": { "Station": "Tap Mun", "Nearest": "Tseung Kwan O", "Latitude": 22.47131669, "Longitude": 114.3607185 }, "geometry": { "type": "Point", "coordinates": [ 855188.799999999813735, 836878.199999999254942 ] } },
+{ "type": "Feature", "properties": { "Station": "Kwai Chung", "Nearest": "Tsuen Wan", "Latitude": 22.35710398, "Longitude": 114.12960136 }, "geometry": { "type": "Point", "coordinates": [ 831398.799999999813735, 824219.900000000372529 ] } },
+{ "type": "Feature", "properties": { "Station": "Yuen Long", "Nearest": "Tuen Mun", "Latitude": 22.44515508, "Longitude": 114.02264888000001 }, "geometry": { "type": "Point", "coordinates": [ 820392.5, 833977.699999999254942 ] } },
+{ "type": "Feature", "properties": { "Station": "Sha Tin", "Nearest": "Sham Shui Po", "Latitude": 22.37628072, "Longitude": 114.18453161 }, "geometry": { "type": "Point", "coordinates": [ 837056.599999999627471, 826342.699999999254942 ] } },
+{ "type": "Feature", "properties": { "Station": "Sham Shui Po", "Nearest": "Mong Kok", "Latitude": 22.3302259, "Longitude": 114.15910913 }, "geometry": { "type": "Point", "coordinates": [ 834437.799999999813735, 821242.900000000372529 ] } },
+{ "type": "Feature", "properties": { "Station": "Tai Po", "Nearest": "North", "Latitude": 22.45095988, "Longitude": 114.16457022 }, "geometry": { "type": "Point", "coordinates": [ 835001.5, 834612.400000000372529 ] } },
+{ "type": "Feature", "properties": { "Station": "Mong Kok", "Nearest": "Sham Shui Po", "Latitude": 22.32261115, "Longitude": 114.16827176 }, "geometry": { "type": "Point", "coordinates": [ 835381.700000000186265, 820399.599999999627471 ] } },
+{ "type": "Feature", "properties": { "Station": "Central/Western", "Nearest": "Central", "Latitude": 22.28489089, "Longitude": 114.14442071000001 }, "geometry": { "type": "Point", "coordinates": [ 832923.5, 816223.0 ] } },
+{ "type": "Feature", "properties": { "Station": "Central", "Nearest": "Central/Western", "Latitude": 22.2818145, "Longitude": 114.15812743 }, "geometry": { "type": "Point", "coordinates": [ 834336.0, 815882.099999999627471 ] } },
+{ "type": "Feature", "properties": { "Station": "Causeway Bay", "Nearest": "Central", "Latitude": 22.28013296, "Longitude": 114.18509009 }, "geometry": { "type": "Point", "coordinates": [ 837114.700000000186265, 815695.800000000745058 ] } },
+{ "type": "Feature", "properties": { "Station": "Tsuen Wan", "Nearest": "Kwai Chung", "Latitude": 22.37174191, "Longitude": 114.11453491 }, "geometry": { "type": "Point", "coordinates": [ 829847.599999999627471, 825841.400000000372529 ] } }
+]
+}
